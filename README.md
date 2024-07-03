@@ -2,7 +2,7 @@
 Illuminate Your Investments: See Smarter, Invest Better
 LuminaStock is a Streamlit web application that leverages cutting-edge LSTM machine learning models to provide precise stock price predictions. Whether you're a seasoned trader or just starting out, LuminaStock empowers investors by offering deep insights and actionable forecasts, helping you navigate the complexities of the financial markets with confidence.
 
-# Features
+## Features
 Stock Price Prediction: Utilizes LSTM models to predict future stock prices based on historical data.
 Performance Metrics: Provides key performance metrics such as Mean Absolute Error, Mean Squared Error, and R^2 Score to evaluate model accuracy.
 Visualizations: Offers interactive visualizations of historical stock prices, volume trends, model metrics, and residuals to aid in analysis and decision-making.

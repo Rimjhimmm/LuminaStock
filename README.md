@@ -33,10 +33,6 @@ To run the LuminaStock app locally, follow these steps:
 3. Click on the "Predict" button to generate stock price predictions and visualize the results.
 4. Explore the different sections of the app, including performance metrics, visualizations, and additional metrics.
 
-## Contributors
-
-- Divyansh Jha
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

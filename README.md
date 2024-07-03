@@ -16,9 +16,7 @@ LuminaStock is a Streamlit web application that leverages cutting-edge LSTM mach
 To run the LuminaStock app locally, follow these steps:
 
 1. Clone this repository to your local machine.
-    ```bash
-    git clone https://github.com/yourusername/LuminaStock.git
-    ```
+    
 2. Install the required dependencies listed in `requirements.txt`.
     ```bash
     pip install -r requirements.txt
